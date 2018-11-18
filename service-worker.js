@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mortyology/precache-manifest.f51fc69212fcf3eda7136ed8fd075264.js"
+  "/mortyology/precache-manifest.dd5b57a65f3a2fa180df327099b9fae6.js"
 );
 
 workbox.clientsClaim();
