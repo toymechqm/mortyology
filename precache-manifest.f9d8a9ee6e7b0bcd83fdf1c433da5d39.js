@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/mortyology/static/media/gas.ac4f2cdd.png"
   },
   {
-    "revision": "d1837073d3aff3854475",
-    "url": "/mortyology/static/css/main.faa87d4c.chunk.css"
+    "revision": "e8f9da76eda6c8184081",
+    "url": "/mortyology/static/css/main.38255cb0.chunk.css"
   },
   {
-    "revision": "6fbea1f60de04ed3eca4d372c5438b5a",
-    "url": "/mortyology/static/media/slow.6fbea1f6.png"
+    "revision": "cc3d28bf5b887e20778572fb7c81605d",
+    "url": "/mortyology/static/media/bird2.cc3d28bf.png"
   },
   {
-    "revision": "346e1b812cc5259606fa",
-    "url": "/mortyology/static/js/1.346e1b81.chunk.js"
+    "revision": "3f57d787ec1eae8c7f17",
+    "url": "/mortyology/static/js/1.3f57d787.chunk.js"
   },
   {
     "revision": "db4e07d6be7fc7cd87d2",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/mortyology/static/media/Jerry.5b103199.png"
   },
   {
-    "revision": "d1837073d3aff3854475",
-    "url": "/mortyology/static/js/main.d1837073.chunk.js"
+    "revision": "e8f9da76eda6c8184081",
+    "url": "/mortyology/static/js/main.e8f9da76.chunk.js"
   },
   {
     "revision": "b9507dcd271cacb7e19e99f260beb63d",
@@ -64,11 +64,15 @@ self.__precacheManifest = [
     "url": "/mortyology/static/media/gum.96d288d1.png"
   },
   {
-    "revision": "346e1b812cc5259606fa",
-    "url": "/mortyology/static/css/1.f27dbeaa.chunk.css"
+    "revision": "6fbea1f60de04ed3eca4d372c5438b5a",
+    "url": "/mortyology/static/media/slow.6fbea1f6.png"
   },
   {
-    "revision": "e3733af3f91fd1624be50f027299a481",
+    "revision": "3f57d787ec1eae8c7f17",
+    "url": "/mortyology/static/css/1.14abbabe.chunk.css"
+  },
+  {
+    "revision": "1c1d8c804291f6d1a6e83253301dff14",
     "url": "/mortyology/index.html"
   }
 ];
