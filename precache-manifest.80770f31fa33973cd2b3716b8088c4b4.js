@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "5b1031993a01cd5bd234727beaed6e86",
-    "url": "/mortyology/static/media/Jerry.5b103199.png"
+    "revision": "ac4f2cdda260d1258da4d96c96839ae6",
+    "url": "/mortyology/static/media/gas.ac4f2cdd.png"
   },
   {
-    "revision": "006821899d9d7f8f9bdb",
-    "url": "/mortyology/static/css/main.e6b0df7c.chunk.css"
+    "revision": "d1837073d3aff3854475",
+    "url": "/mortyology/static/css/main.faa87d4c.chunk.css"
   },
   {
-    "revision": "96d288d1a220c70bdfeb7302eecac5c9",
-    "url": "/mortyology/static/media/gum.96d288d1.png"
+    "revision": "6fbea1f60de04ed3eca4d372c5438b5a",
+    "url": "/mortyology/static/media/slow.6fbea1f6.png"
   },
   {
-    "revision": "f224a71fa0e904699b33",
-    "url": "/mortyology/static/js/1.f224a71f.chunk.js"
+    "revision": "346e1b812cc5259606fa",
+    "url": "/mortyology/static/js/1.346e1b81.chunk.js"
   },
   {
     "revision": "db4e07d6be7fc7cd87d2",
@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/mortyology/static/media/schwifty.4b4420cf.ttf"
   },
   {
-    "revision": "006821899d9d7f8f9bdb",
-    "url": "/mortyology/static/js/main.00682189.chunk.js"
+    "revision": "5b1031993a01cd5bd234727beaed6e86",
+    "url": "/mortyology/static/media/Jerry.5b103199.png"
   },
   {
-    "revision": "ac4f2cdda260d1258da4d96c96839ae6",
-    "url": "/mortyology/static/media/gas.ac4f2cdd.png"
+    "revision": "d1837073d3aff3854475",
+    "url": "/mortyology/static/js/main.d1837073.chunk.js"
   },
   {
     "revision": "b9507dcd271cacb7e19e99f260beb63d",
@@ -60,11 +60,15 @@ self.__precacheManifest = [
     "url": "/mortyology/static/media/summer.5a908de0.png"
   },
   {
-    "revision": "f224a71fa0e904699b33",
-    "url": "/mortyology/static/css/1.558965e7.chunk.css"
+    "revision": "96d288d1a220c70bdfeb7302eecac5c9",
+    "url": "/mortyology/static/media/gum.96d288d1.png"
   },
   {
-    "revision": "990b3b32eac5fcea4d20a56118913d66",
+    "revision": "346e1b812cc5259606fa",
+    "url": "/mortyology/static/css/1.f27dbeaa.chunk.css"
+  },
+  {
+    "revision": "e3733af3f91fd1624be50f027299a481",
     "url": "/mortyology/index.html"
   }
 ];
