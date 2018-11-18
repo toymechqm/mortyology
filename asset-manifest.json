@@ -1,7 +1,7 @@
 {
   "main.css": "/mortyology/static/css/main.38255cb0.chunk.css",
-  "main.js": "/mortyology/static/js/main.e8f9da76.chunk.js",
-  "main.js.map": "/mortyology/static/js/main.e8f9da76.chunk.js.map",
+  "main.js": "/mortyology/static/js/main.19648f7c.chunk.js",
+  "main.js.map": "/mortyology/static/js/main.19648f7c.chunk.js.map",
   "static/css/1.14abbabe.chunk.css": "/mortyology/static/css/1.14abbabe.chunk.css",
   "static/js/1.3f57d787.chunk.js": "/mortyology/static/js/1.3f57d787.chunk.js",
   "static/js/1.3f57d787.chunk.js.map": "/mortyology/static/js/1.3f57d787.chunk.js.map",
@@ -20,9 +20,9 @@
   "static/media/slow.png": "/mortyology/static/media/slow.6fbea1f6.png",
   "static/media/bird2.png": "/mortyology/static/media/bird2.cc3d28bf.png",
   "static/media/regular.ttf": "/mortyology/static/media/regular.1801a369.ttf",
-  "static/css/main.38255cb0.chunk.css.map": "/mortyology/static/css/main.38255cb0.chunk.css.map",
   "static/css/1.14abbabe.chunk.css.map": "/mortyology/static/css/1.14abbabe.chunk.css.map",
+  "static/css/main.38255cb0.chunk.css.map": "/mortyology/static/css/main.38255cb0.chunk.css.map",
   "index.html": "/mortyology/index.html",
-  "precache-manifest.f9d8a9ee6e7b0bcd83fdf1c433da5d39.js": "/mortyology/precache-manifest.f9d8a9ee6e7b0bcd83fdf1c433da5d39.js",
+  "precache-manifest.f51fc69212fcf3eda7136ed8fd075264.js": "/mortyology/precache-manifest.f51fc69212fcf3eda7136ed8fd075264.js",
   "service-worker.js": "/mortyology/service-worker.js"
 }
