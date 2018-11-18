@@ -67,7 +67,7 @@ const options = [
   "Sagittarius: Nov 22 – Dec 22",
   "Capricorn: Dec 22 – Jan 20",
   "Aquarius: Jan 20 – Feb 18",
-  "Pisces: Feb 18 – Mar 20"
+  "Pisces:   Feb 18 – Mar 20"
 ];
 
 class Name extends Component {

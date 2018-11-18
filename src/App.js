@@ -14,6 +14,7 @@ import pickle from "./chars/pickle.png";
 import morty from "./chars/beth.png";
 import summer from "./chars/summer.png";
 import gum from "./chars/gum.png";
+import slow from "./chars/slow.png";
 
 const NameContainer = styled.div`
   font-family: "schwifty";
@@ -61,10 +62,17 @@ const Horoscope = styled.ul`
   text-align: center;
   padding: 25px;
   list-style: none;
+  .date {
+    margin: 10px 0;
+  }
   .color {
     border: 3px dashed #7f8fa6;
     padding: 5px;
     margin: 10px;
+  }
+  .lucky-time {
+    margin: 10px 0;
+    display: flex;
   }
 `;
 
@@ -192,18 +200,26 @@ class Main extends Component {
           </h1>
         </NameContainer>
         <Horoscope>
-          <div>
-            It is {json.current_date} on Earth-{json.lucky_number}
+          <div className="date">
+            It is currently {json.current_date} on Earth-{json.lucky_number}.
           </div>
           <div>
-            intergalactic beings birthed between {json.date_range} should feel a
-            certain <u>{json.mood}</u> caused by their moons gravitational pull.
-            Your ideal mate is a {json.compatibility} from Earth-
-            {(Math.floor(Math.random() * 10) + 2) * json.lucky_number}
+            Intergalactic beings birthed between {json.date_range} should feel a
+            certain feeling of '{json.mood}' caused by their moon's
+            gravitational pull. Your ideal mate would be a {json.compatibility}{" "}
+            from Earth-
+            {(Math.floor(Math.random() * 10) + 2) * json.lucky_number}.
           </div>
-          <div>A good time to take action is at {json.lucky_time}</div>
+
+          <div className="lucky-time">
+            <img src={slow} alt="slow" width={150} height={150} />
+            <br />
+            In Birdculture {json.lucky_time}, would be an important time for
+            you.
+          </div>
+
           <div className="color">
-            The color <ColorBox color={json.color} /> should shield you from the
+            The color <ColorBox color={json.color} /> will shield you from the
             intergalactic federation and bring peace among worlds.
           </div>
         </Horoscope>
