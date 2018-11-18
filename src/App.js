@@ -15,6 +15,7 @@ import morty from "./chars/beth.png";
 import summer from "./chars/summer.png";
 import gum from "./chars/gum.png";
 import slow from "./chars/slow.png";
+import bird2 from "./chars/bird2.png";
 
 const NameContainer = styled.div`
   font-family: "schwifty";
@@ -71,8 +72,14 @@ const Horoscope = styled.ul`
     margin: 10px;
   }
   .lucky-time {
+    img {
+      max-width: 110px;
+      max-height: 120px;
+    }
     margin: 10px 0;
     display: flex;
+    align-items: center;
+    justify-content: center;
   }
 `;
 
@@ -212,10 +219,12 @@ class Main extends Component {
           </div>
 
           <div className="lucky-time">
-            <img src={slow} alt="slow" width={150} height={150} />
-            <br />
-            In Birdculture {json.lucky_time}, would be an important time for
-            you.
+            <img src={slow} alt="slow" />
+            <p>
+              In Birdculture, {json.lucky_time} would be an important time for
+              you.
+            </p>
+            <img src={bird2} alt="bird2" />
           </div>
 
           <div className="color">
