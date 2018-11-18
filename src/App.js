@@ -203,18 +203,18 @@ class Main extends Component {
         <NameContainer>
           {this.getImage()}
           <h1>
-            {this.randomGreeting()} Earth-{json.lucky_number} {name}!
+            {this.randomGreeting()} C-{json.lucky_number} {name}!
           </h1>
         </NameContainer>
         <Horoscope>
           <div className="date">
-            It is currently {json.current_date} on Earth-{json.lucky_number}.
+            It is currently {json.current_date} on C-{json.lucky_number}.
           </div>
           <div>
             Intergalactic beings birthed between {json.date_range} should feel a
             certain feeling of '{json.mood}' caused by their moon's
             gravitational pull. Your ideal mate would be a {json.compatibility}{" "}
-            from Earth-
+            from Earth C-
             {(Math.floor(Math.random() * 10) + 2) * json.lucky_number}.
           </div>
 
