@@ -7,6 +7,7 @@ import posed from "react-pose";
 import { tween, easing, styler } from "popmotion";
 
 const PageContainer = styled.div`
+  overflow: hidden;
   display: flex;
   position: absolute;
   top: 0;

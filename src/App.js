@@ -208,7 +208,7 @@ class Main extends Component {
         </NameContainer>
         <Horoscope>
           <div className="date">
-            It is currently {json.current_date} on C-{json.lucky_number}.
+            It is currently {json.current_date} on Earth C-{json.lucky_number}.
           </div>
           <div>
             Intergalactic beings birthed between {json.date_range} should feel a
